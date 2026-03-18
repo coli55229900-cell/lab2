@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+
+*.zip
+*.txt
+*.csv
+data/
+dataset.zip
+household_power_consumption.txt
+
+__pycache__/
+*.pyc
+venv/
+
+Thumbs.db
+desktop.ini
